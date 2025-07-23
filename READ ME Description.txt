@@ -1,0 +1,30 @@
+
+The above code system uses PIR sensor to detect motion and
+turns on the LED when motion is detected using the microcontroller
+***********************************
+Designed by members of groups in Faculty of science
+Gulu UNIVERSITY
+YEAR ONE Students
+::::::::::::::::::::::::::::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
